@@ -9,5 +9,7 @@ Com isso foi colocado em prática o controle do fluxo da aplicação, modulariza
 ## 🛠 Habilidades usadas no projeto
 HTML, CSS e Javascript.
 
+
+
 ## 🔗 Link
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/leandrodemello)
